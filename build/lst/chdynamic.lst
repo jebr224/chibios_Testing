@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -14,14 +14,14 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
   11              		.file	"chdynamic.c"
   12              		.text
   13              	.Ltext0:
-  14              		.section	.gnu.lto_.profile.d7345872,"",%progbits
+  14              		.section	.gnu.lto_.profile.5f7fde1,"",%progbits
   15 0000 789C6365 		.ascii	"x\234ce`b`e```d\270\312\350\015\000\003b\001/"
   15      60626065 
   15      60606064 
   15      B8CAE80D 
   15      00036201 
   16              		.text
-  17              		.section	.gnu.lto_.icf.d7345872,"",%progbits
+  17              		.section	.gnu.lto_.icf.5f7fde1,"",%progbits
   18 0000 789C6365 		.ascii	"x\234ce`bP`@\000V\206\213\315\327O\3600=x\330\263\233"
   18      60625060 
   18      40005686 
@@ -35,7 +35,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
   20 0029 599C0C00 		.ascii	"Y\234\014\000\004\303\017Q"
   20      04C30F51 
   21              		.text
-  22              		.section	.gnu.lto_.jmpfuncs.d7345872,"",%progbits
+  22              		.section	.gnu.lto_.jmpfuncs.5f7fde1,"",%progbits
   23 0000 789C6D8F 		.ascii	"x\234m\217\275\012\002A\014\2043\331\335\343\032\265"
   23      BD0A0241 
   23      0C8433D9 
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
   27 0048 C78F5A29 		.ascii	"\307\217Z)1\224\252\213\036b\202\025$\200W\025\261\212"
   27      3194AA8B 
   27      1E628215 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 2
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 2
 
 
   27      24805715 
@@ -90,7 +90,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
   33 00b4 E217F97D 		.ascii	"\342\027\371}8F"
   33      3846
   34              		.text
-  35              		.section	.gnu.lto_.inline.d7345872,"",%progbits
+  35              		.section	.gnu.lto_.inline.5f7fde1,"",%progbits
   36 0000 789C6365 		.ascii	"x\234ce`b\270\300\200\000\314\014\014\374\022\214\014"
   36      6062B8C0 
   36      8000CC0C 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
   41 0058 D079F63E 		.ascii	"\320y\366>\346\371\314l@\035\313\031e\030\030\024\262"
   41      E6F9CC6C 
   41      401DCB19 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 3
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 3
 
 
   41      65181814 
@@ -134,7 +134,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
   43      0600
   44 008a 582F1B26 		.ascii	"X/\033&"
   45              		.text
-  46              		.section	.gnu.lto_.pureconst.d7345872,"",%progbits
+  46              		.section	.gnu.lto_.pureconst.5f7fde1,"",%progbits
   47 0000 789C6365 		.ascii	"x\234ce`b\340b```f\330\305\310\274\213\221e\027#\000"
   47      6062E062 
   47      60606066 
@@ -142,7 +142,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
   47      8B916517 
   48 0016 0C46024D 		.ascii	"\014F\002M"
   49              		.text
-  50              		.section	.gnu.lto_chSysUnlock.d7345872,"",%progbits
+  50              		.section	.gnu.lto_chSysUnlock.5f7fde1,"",%progbits
   51 0000 789C8D54 		.ascii	"x\234\215TMlTU\024>\337\273\357\315L\247?Tp\241@\310"
   51      4D6C5455 
   51      143EDFBB 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
   57      01CB52
   58 007f 4D978874 		.ascii	"M\227\210t\320\371\313O\272HYv\357\002Y\375\350\362"
   58      D0F9CB4F 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 4
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 4
 
 
   58      BA485976 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
   69      5436F6
   70 0151 EF1C3C38 		.ascii	"\357\034<8i\014\240\035nJ\002\212\355\267\373O\227N"
   70      690CA01D 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 5
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 5
 
 
   70      6E4A028A 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
   82 0223 2860E794 		.ascii	"(`\347\224\241V\214o\230\232I\010n\251\247f\031*\216"
   82      A1568C6F 
   82      989A4908 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 6
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 6
 
 
   82      6EA9A766 
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
   93      44BF22F9 
   94 0300 5363EB62 		.ascii	"Sc\353b#\263\214\035|\374Y`\366_XQ\341N\374b\0117^\353"
   94      23B38C1D 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 7
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 7
 
 
   94      7CFC5960 
@@ -394,7 +394,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  100      7A015A70 
  100      CD2E
  101              		.text
- 102              		.section	.gnu.lto_chThdCreateFromHeap.d7345872,"",%progbits
+ 102              		.section	.gnu.lto_chThdCreateFromHeap.5f7fde1,"",%progbits
  103 0000 789C6D55 		.ascii	"x\234mU[PSW\024=\373\236\033n  bE-\245N\354\224Q\247"
  103      5B505357 
  103      143DFB9E 
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  107      D14C75D0 
  107      B6B66AF7 
  107      3EB95A89 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 8
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 8
 
 
  107      C9
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  119 012c 6235486E 		.ascii	"b5Hn\255\357\326]\316gJ\356\272S\217#\232A>\035K\233"
  119      ADEFD65D 
  119      CE674AEE 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 9
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 9
 
 
  119      BA538F23 
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  130      2173A1A7 
  130      0E411230 
  130      C65FDC
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 10
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 10
 
 
  131 020f 69E886B0 		.ascii	"i\350\206\260x\362t\015\252\234\025\035y\220\221\015"
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  142      EC44898C 
  142      000A05
  143 02da E8A00016 		.ascii	"\350\240\000\026\202\006^J\224\024\303\311\271\034%"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 11
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 11
 
 
  143      82065E4A 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  155 03ab E3E4598F 		.ascii	"\343\344Y\217\264\011\263J:]\200)2\371\037wz\256(\370"
  155      B409B34A 
  155      3A5D8029 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 12
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 12
 
 
  155      32F91F77 
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  166      B02AF834 
  166      A127B3FD 
  167 0485 7826195C 		.ascii	"x&\031\\\223\236\244\036\033\356\264\376-\015\371:N"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 13
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 13
 
 
  167      939EA41E 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  178      B8C4BE78 
  178      E942
  179 055a 87CDEEF4 		.ascii	"\207\315\356\364\026z\027,\262\333\221\224\240\350\347"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 14
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 14
 
 
  179      167A172C 
@@ -795,7 +795,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  181      C9FE03E5 
  182 058b 18BEC1   		.ascii	"\030\276\301"
  183              		.text
- 184              		.section	.gnu.lto_chThdCreateFromMemoryPool.d7345872,"",%progbits
+ 184              		.section	.gnu.lto_chThdCreateFromMemoryPool.5f7fde1,"",%progbits
  185 0000 789C7D55 		.ascii	"x\234}UmPTe\024~\317}\357\335\273,\213\250\224\020\241"
  185      6D505465 
  185      147ECF7D 
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  192      E7B8
  193 0092 AE1C6FA7 		.ascii	"\256\034o\247u\005L\306\272\011\200\276hf`9\022\227"
  193      75054CC6 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 15
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 15
 
 
  193      BA0980BE 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  205 0163 0CFC2D41 		.ascii	"\014\374-A\355\354\332\373q\2109\022\222\254Bm8\025"
  205      EDECDAFB 
  205      71883912 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 16
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 16
 
 
  205      92AC426D 
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  216      F13FEF
  217 0245 87FC2B2D 		.ascii	"\207\374+-\367+Mtv\031'W\027n8zN\245\012s`\320\034R"
  217      F72B4D74 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 17
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 17
 
 
  217      76192757 
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  228      6845F483 
  228      13ED9BAD 
  228      54064D64 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 18
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 18
 
 
  228      3B05A5
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  240 03f5 66700173 		.ascii	"fp\001s`a\330\277\253lK\030t\020X\011\337;\345\235S"
  240      6061D8BF 
  240      AB6C4B18 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 19
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 19
 
 
  240      74105809 
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  252      EA7B2FD8 
  252      11D0FAE4 
  252      41209682 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 20
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 20
 
 
  252      D94082
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  264      B6C7FEFE 
  264      A2B48569 
  264      6B31A6C3 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 21
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 21
 
 
  265 05b7 CE58B2FA 		.ascii	"\316X\262\372mg\352r\366fdB\306\332l\373\302\264\305"
@@ -1224,7 +1224,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  269 0603 02243318 		.ascii	"\002$3\030{"
  269      7B
  270              		.text
- 271              		.section	.gnu.lto___func__.6722.d7345872,"",%progbits
+ 271              		.section	.gnu.lto___func__.6722.5f7fde1,"",%progbits
  272 0000 789C6365 		.ascii	"x\234ce`b\020e``\220a\200\200\351\314\214\263\366^9"
  272      60621065 
  272      60609061 
@@ -1245,7 +1245,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  275      9A
  276 0042 861084   		.ascii	"\206\020\204"
  277              		.text
- 278              		.section	.gnu.lto_.symbol_nodes.d7345872,"",%progbits
+ 278              		.section	.gnu.lto_.symbol_nodes.5f7fde1,"",%progbits
  279 0000 789C558B 		.ascii	"x\234U\213\313m\002A\020\005\337\233\236Y\330\005\247"
  279      CB6D0241 
  279      1005DF9B 
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  280      4002
  281 0023 7043DA33 		.ascii	"pC\3323)\300ac\340\277\3303\213\220\230S\251\253\353"
  281      29C06163 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 22
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 22
 
 
  281      E0BFD833 
@@ -1303,7 +1303,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  290 00c0 EA1EFE01 		.ascii	"\352\036\376\001\340\375W\214"
  290      E0FD578C 
  291              		.text
- 292              		.section	.gnu.lto_.refs.d7345872,"",%progbits
+ 292              		.section	.gnu.lto_.refs.5f7fde1,"",%progbits
  293 0000 789C6365 		.ascii	"x\234ce`b\020a```a``dbbdf`dab\342\000\022\254L\014\000"
  293      60621061 
  293      60606061 
@@ -1311,14 +1311,14 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  293      62646660 
  294 001e 04520048 		.ascii	"\004R\000H"
  295              		.text
- 296              		.section	.gnu.lto_.decls.d7345872,"",%progbits
+ 296              		.section	.gnu.lto_.decls.5f7fde1,"",%progbits
  297 0000 789CB57C 		.ascii	"x\234\265|iTTY\232`\334w_\004\020\004`\242Y\307\254"
  297      69545459 
  297      9A60DC77 
  297      5F041004 
  297      60A259C7 
  298 0015 437765E5 		.ascii	"Cwe\345P\231\314t\245\246\231\325\231U\323}NWM\236\351"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 23
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 23
 
 
  298      5099CC74 
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  309      85EF
  310 00e6 57F0ECA9 		.ascii	"W\360\354\251\300\370,\2002\004m\256\360\275\011\312"
  310      C0F82C80 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 24
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 24
 
 
  310      32046DAE 
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  321      3FA6CF29 
  321      8C
  322 01bc 1E46E49F 		.ascii	"\036F\344\237\301G0r\325\"\021\252S\365\011\375\316"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 25
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 25
 
 
  322      C1473072 
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  333      FBEA7AB8 
  333      8B96CA86 
  333      9C
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 26
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 26
 
 
  334 0292 7407096E 		.ascii	"t\007\011n\246\306\002\344*\323\3435\244\243\256z\215"
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  345 035b D8EE526C 		.ascii	"\330\356Rl\367\250\325JMVK\032([q\262\266\261M\350\274"
  345      F7A8D54A 
  345      4D564B1A 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 27
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 27
 
 
  345      285B71B2 
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  357 0437 7EB67258 		.ascii	"~\266rX\207\2231e\377\322\305\345|\255(P5\240\035\""
  357      87933165 
  357      FFD2C5E5 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 28
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 28
 
 
  357      7CAD2850 
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  369 050d B92519F5 		.ascii	"\271%\031\365f\023ub\253*E^3\011\035\242\314\246\270"
  369      66137562 
  369      AB2A455E 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 29
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 29
 
 
  369      33091DA2 
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  381      4C465F10 
  381      283424D9 
  381      6988CC24 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 30
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 30
 
 
  382 05f1 20D80B0D 		.ascii	" \330\013\015\200aUh\004\275\007\275\317\315g.\333\341"
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  392      CC8818
  393 06c3 9F573C17 		.ascii	"\237W<\027l\021Y\261I\244;\023G\246\035%Z~\005T^JT\226"
  393      6C1159B1 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 31
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 31
 
 
  393      49A43B13 
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  405 079c A38EB88F 		.ascii	"\243\216\270\217\021\251h\337\377\235l\262\371q\025"
  405      11A968DF 
  405      FF9D6CB2 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 32
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 32
 
 
  405      F97115
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  417      75622B9A 
  417      C5D679D0 
  417      7586B036 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 33
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 33
 
 
  417      B612
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  428      ED1A0D
  429 0949 B52260A6 		.ascii	"\265\"`\246Pb\346\226\300\355\322k\\>\255\303\321\214"
  429      5062E696 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 34
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 34
 
 
  429      C0EDD26B 
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  440      6A024A8D 
  440      6F40E9A1 
  440      32A5CEA4 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 35
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 35
 
 
  440      C919
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  452 0aed 0A56B950 		.ascii	"\012V\271P\333cT\343jV)>X\373\322\036\327\262JB\341"
  452      DB6354E3 
  452      6A56293E 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 36
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 36
 
 
  452      58FBD21E 
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  464      958D655E 
  464      861FAF39 
  464      7E449447 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 37
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 37
 
 
  464      A31C
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  476      55DE83E8 
  476      EB
  477 0caa 36F640C5 		.ascii	"6\366@\305\330\035\025A)\204r\013\312M(7\240\354\207"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 38
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 38
 
 
  477      D81D1541 
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  488      4C1B2E6F 
  488      06480011 
  489 0d88 4E71714E 		.ascii	"NqqN\303\357x`)\316\202\245\206l\356YD19@\340\024VN"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 39
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 39
 
 
  489      C3EF7860 
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  500      AA6D6059 
  500      B85FB008 
  500      F7F36B13 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 40
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 40
 
 
  500      8E
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  512      5971E522 
  512      B722D923 
  512      6D539EDF 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 41
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 41
 
 
  512      C8D70B
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  525 1000 C995C06B 		.ascii	"\311\225\300k\034\357\242 \263\322\300\256\242\235\010"
  525      1CEFA220 
  525      B3D2C0AE 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 42
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 42
 
 
  525      A29D08
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  537 10dd 589DF4D7 		.ascii	"X\235\364\327\2557\037m8\3032O\235R&\250<\2759\234<"
  537      AD371F6D 
  537      38C3324F 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 43
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 43
 
 
  537      9D5226A8 
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  548      3D44
  549 11b6 591934B1 		.ascii	"Y\0314\261\262\034\3770\334\005X\3511\322\323\370\221"
  549      B21CFF30 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 44
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 44
 
 
  549      DC0558E9 
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  560      B23DA520 
  560      13AD77D8 
  560      0484
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 45
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 45
 
 
  561 1296 40CF5A43 		.ascii	"@\317ZC+$\257\237\306\2327`\310|E\001\371\332u\357\217"
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  571      933D08
  572 1365 089A92A4 		.ascii	"\010\232\222\244\2332\305\315~\221\304\315\261\252\003"
  572      9B32C5CD 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 46
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 46
 
 
  572      7E91C4CD 
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  583      7AD01DA5 
  583      368F718C 
  583      D9BBC6C9 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 47
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 47
 
 
  584 1445 07B67988 		.ascii	"\007\266y\210\247<\2342\361\220\031\177<\027s\036f:"
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  595      AF2444F3 
  595      03895272 
  595      1B286EA0 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 48
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 48
 
 
  595      7EDA01
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  606      C701FE
  607 15e7 99D8B0FB 		.ascii	"\231\330\260\373B\276\245X$\222;\354\305\242\033\272"
  607      42BEA558 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 49
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 49
 
 
  607      24923BEC 
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  618      778F8D7C 
  618      5595E326 
  619 16cd 6D5C3D00 		.ascii	"m\\=\000zM\353\321\233\313\246\364\232,\351)m\231\253"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 50
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 50
 
 
  619      7A4DEBD1 
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  630      DCC6F719 
  630      89633470 
  630      609BFB
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 51
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 51
 
 
  631 17a7 C34DFCF0 		.ascii	"\303M\374\360\211\230\356\221m`\276\003q\216NQ\001\306"
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  643 186d 6F220CDF 		.ascii	"o\"\014\337.\312\245v\037\203\016\243\322`H\350S\262"
  643      2ECAA576 
  643      1F830EA3 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 52
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 52
 
 
  643      D26048E8 
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  655 1941 A9EADCA1 		.ascii	"\251\352\334\241\216\011{D/\213l4\217\250c\031G`D\275"
  655      8E097B44 
  655      2F8B6C34 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 53
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 53
 
 
  655      8FA86319 
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  667 1a18 CDDC28B5 		.ascii	"\315\334(\265\302\274\203\311|\0018;O8\313\343\310\210"
  667      C2BC83C9 
  667      7C01383B 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 54
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 54
 
 
  667      4F38CBE3 
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  678      E8
  679 1aee A49A9CAC 		.ascii	"\244\232\234\254\002{\251\\3)\360\373\014h$\031J\022"
  679      027BA95C 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 55
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 55
 
 
  679      3329F0FB 
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  691      631BD363 
  691      86D208D1 
  692 1bcc DC21239D 		.ascii	"\334!#\235\256LZv\031\365\312\210\035\276\375\026{a"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 56
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 56
 
 
  692      AE4C5A76 
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  703      500AA410 
  704 1c9b 7C361937 		.ascii	"|6\0317,\342I\346G\335O\036\225;Y\371\221\031\361m@"
  704      2CE249E6 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 57
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 57
 
 
  704      47DD4F1E 
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  715      874C83C7 
  715      792C9059 
  715      4DA6
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 58
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 58
 
 
  716 1d84 C8909927 		.ascii	"\310\220\231'0\266\256\257\246\002@\012\001(\341\344"
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  727      0A9B3D71 
  727      26C15E0E 
  727      4CCED725 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 59
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 59
 
 
  727      E0A7
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  739 1f22 C909D773 		.ascii	"\311\011\327s5?\341\032H\214\313w\344\274\256v;\034"
  739      353FE11A 
  739      488CCB77 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 60
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 60
 
 
  739      E4BCAE76 
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  750      A7
  751 1ffe E71E     		.ascii	"\347\036"
  752 2000 DF00C3AF 		.ascii	"\337\000\303\257=\015;\275\377\363v\357\335\276;|C\014"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 61
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 61
 
 
  752      3D0D3BBD 
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  764      0BD06EE5 
  764      DDB7
  765 20cf 7AEFF6D7 		.ascii	"z\357\366\327\373\223ND=\366A\301\201\337\371BW\035"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 62
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 62
 
 
  765      FB934E44 
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  777      14F784E8 
  777      7D44E242 
  777      22
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 63
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 63
 
 
  778 21a5 6975923D 		.ascii	"iu\222=\002\265r%\223F\354o\370^\035\2707@\037l\017"
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  789      D4420CE0 
  790 226e 52F606FA 		.ascii	"R\366\006\372E\020x\355\360\012\321\213\001^\376zu\240"
  790      451078ED 
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 64
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 64
 
 
  790      F00AD18B 
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  802      D8B38BD8 
  802      01
  803 2345 1078EFFE 		.ascii	"\020x\357\376\357^\337\352\367\004}\375\266\214\316"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 65
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 65
 
 
  803      EF5EDFEA 
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  814      76835134 
  814      C0574860 
  815 241b 06668490 		.ascii	"\006f\204\220\2758\300\020D\223\016%LS\022\344J\226"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 66
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 66
 
 
  815      BD38C010 
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  826      BFFC5A22 
  826      EA1FE21B 
  827 24f0 E209330F 		.ascii	"\342\0113\017\240\314\302\353\277\001j\007J\206\020"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 67
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 67
 
 
  827      A0CCC2EB 
@@ -3967,7 +3967,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  828 24ff F93F9D4A 		.ascii	"\371?\235J\271\011"
  828      B909
  829              		.text
- 830              		.section	.gnu.lto_.symtab.d7345872,"",%progbits
+ 830              		.section	.gnu.lto_.symtab.5f7fde1,"",%progbits
  831 0000 63685468 		.ascii	"chThdCreateFromHeap\000"
  831      64437265 
  831      61746546 
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  859      00000000 
  860 0094 EB010000 		.ascii	"\353\001\000\000"
  861 0098 63685363 		.ascii	"chSchWakeupS\000"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 68
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 68
 
 
  861      6857616B 
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  892 0145 00       		.ascii	"\000"
  893 0146 02       		.ascii	"\002"
  894 0147 00       		.ascii	"\000"
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 69
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 69
 
 
  895 0148 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
@@ -4118,7 +4118,7 @@ ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 1
  906              		.comm	__gnu_lto_v1,1,1
  907              		.comm	__gnu_lto_slim,1,1
  908              		.ident	"GCC: (GNU Tools for ARM Embedded Processors 6-2017-q1-update) 6.3.1 20170215 (release) [AR
-ARM GAS  C:\Users\johnb\AppData\Local\Temp\cceWnq7R.s 			page 70
+ARM GAS  C:\Users\johnb\AppData\Local\Temp\ccQTP9Ta.s 			page 70
 
 
 DEFINED SYMBOLS

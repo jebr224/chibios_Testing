@@ -71,8 +71,18 @@ static void cmd_write(BaseSequentialStream *chp, int argc, char *argv[]) {
   chprintf(chp, "\r\n\nstopped\r\n");
 }
 
+static void cmd_john(BaseSequentialStream *chp, int argc, char *argv[]) {
+  (void)argv;
+  (void)argc;
+  chprintf(chp, "Broadbent\r\n");
+  return;
+ }
+
+
+
 static const ShellCommand commands[] = {
   {"write", cmd_write},
+  {"john", cmd_john},
   {NULL, NULL}
 };
 
